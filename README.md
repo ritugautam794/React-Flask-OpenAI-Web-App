@@ -5,4 +5,6 @@ The project demonstrates the integration of AI-powered natural language processi
 
 [Watch the video](Recording_React-FlaskApp.mp4)
 
-Recording_React-Flask App.mp4
+
+
+![image](https://github.com/user-attachments/assets/ae602385-63ac-4890-ae3a-04bc0c70ae03)
