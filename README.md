@@ -3,7 +3,7 @@ This project is a web application built with React.js on the frontend and Flask 
 
 The project demonstrates the integration of AI-powered natural language processing with a modern web development stack, offering an intuitive and interactive user experience.
 
-[Watch the video](https://www.youtube.com/watch?v=itAvIFR-qq4)
+[Watch the demo here](https://www.youtube.com/watch?v=itAvIFR-qq4)
 
 
 
